@@ -1,35 +1,29 @@
-body {
-    background-color: beige;
-    color: brown;
+.bord:hover {
+    border: 2px solid black;
+    height: auto;
 }
-h1 {
-    text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
-    font-style: italic;
-}
-
-p {
-    text-align: center;
-    text-decoration: underline;
-    color: blue;
+.cor:hover {
+    border: 2px solid black;
+    height: auto;
 }
 
-ol {
-    list-style: none;
-    background-color: aqua;
+#primaria {
+    background-color: blue;
+    color: aliceblue;
+}
+#secundaria {
+    background-color: blueviolet;
+    color: rosybrown;
+}
+#complementar {
+    background-color: brown;
+    color: chartreuse;
+}
+#escura {
+    background-color: black;
+    color: aliceblue;
+}
+#clara {
+    background-color: aliceblue;
     color: black;
-}
-
-ul {
-    list-style: none;
-    background-color: aqua;
-    color: black;
-}
-
-li:hover {
-    background-color: aqua;
-}
-
-li:active {
-    font-family: sans-serif;
 }
