@@ -38,7 +38,7 @@ ol li:nth-child(odd) {
 }
 
 li.fundo {
-    background-color: blueviolet;
+    background-color: rgb(235, 147, 223);
 }
 
 a.stacks:hover {
